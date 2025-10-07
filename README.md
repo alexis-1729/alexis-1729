@@ -1,7 +1,7 @@
 
 # 👋 ¡Hola! Soy Alexis Ibañez
 
-Soy estudiante enfocado en desarrollar soluciones con tecnologias como: **IoT**, **microservicios** y **aplicaciones móviles con IA** 🤖.
+Soy estudiante de Ingenieria en Sistemas Computacioneales enfocado en desarrollar soluciones con tecnologias como: **IoT**, **Machine Learning** e **IA** 🤖.
 
 ---
 
@@ -20,6 +20,6 @@ Soy estudiante enfocado en desarrollar soluciones con tecnologias como: **IoT**,
 ---
 
 ### 💬 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-orange?style=for-the-badge)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexis-hern%C3%A1ndez-iba%C3%B1ez-2208b9235/)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-orange?style=for-the-badge)](ibaa59733@gmail.com)
 
